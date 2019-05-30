@@ -2,4 +2,5 @@
 DOM Manipulation &amp; Events
 29/05/2019 - Started a new section DOM Manipulation &amp; Events
 
-30/05/2019 - DOM Manipulation &amp; Events
+30/05/2019 - DOM Manipulation &amp; Events - DOM Selector single elements
+
