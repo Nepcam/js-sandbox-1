@@ -1,3 +1,5 @@
+// Examining the DOM Object
+
 let val;
 
 val = document;
