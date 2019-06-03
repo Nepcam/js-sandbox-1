@@ -8,4 +8,4 @@ DOM Manipulation &amp; Events
 
 2/06/2019 - Revision
 
-3/06/2019 - DOM Selectors for Multiple Elements 
+3/06/2019 - DOM Selectors for Multiple Elements & Traversing the DOM 
