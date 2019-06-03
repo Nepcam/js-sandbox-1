@@ -7,3 +7,5 @@ DOM Manipulation &amp; Events
 31/05/2019 - DOM Selector Single Elements
 
 2/06/2019 - Revision
+
+3/06/2019 - DOM Selectors for Multiple Elements 
