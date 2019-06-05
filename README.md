@@ -11,3 +11,5 @@ DOM Manipulation &amp; Events
 3/06/2019 - DOM Selectors for Multiple Elements & Traversing the DOM 
 
 4/06/2019 - Creating elements
+
+5/06/2019 - Removing and Replacing elements
