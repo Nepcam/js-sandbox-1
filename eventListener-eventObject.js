@@ -1,10 +1,10 @@
 // add an event listener
 
-// document.querySelector('.clear-tasks').addEventListener('click', function(e){ unamed function
-//     console.log('Hello World');
+document.querySelector('.clear-tasks').addEventListener('click', function(e){ // unamed function
+    console.log('Hello World');
 
-//     //e.preventDefault(); this is a parameter to stop a default link behavior
-// });
+    //e.preventDefault(); this is a parameter to stop a default link behavior
+});
 
 document.querySelector('.clear-tasks').addEventListener('click', onclick);
 
