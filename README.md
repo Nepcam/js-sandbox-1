@@ -13,3 +13,5 @@ DOM Manipulation &amp; Events
 4/06/2019 - Creating elements
 
 5/06/2019 - Removing and Replacing elements
+
+6/06/2019 - Event listeners & Event object
