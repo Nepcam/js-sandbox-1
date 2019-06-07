@@ -17,3 +17,4 @@ DOM Manipulation &amp; Events
 6/06/2019 - Event listeners & Event object
 
 7/06/2019 - Mouse Events
+          - DOM Manipulation Revision
