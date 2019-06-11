@@ -18,3 +18,5 @@ DOM Manipulation &amp; Events
 
 7/06/2019 - Mouse Events
           - DOM Manipulation Revision
+          
+11/06/2019 - Keyboard and Input Events
