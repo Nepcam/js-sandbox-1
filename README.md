@@ -20,3 +20,5 @@ DOM Manipulation &amp; Events
           - DOM Manipulation Revision
           
 11/06/2019 - Keyboard and Input Events
+
+12/06/2019 - Event Bubbling and Delegation
