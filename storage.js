@@ -22,16 +22,22 @@ document.querySelector('form').addEventListener('submit', function(e){
 
     let tasks;
 
-    if(localStorage.getItem('tasks') === null){
-        tasks = [];
-    } else {
-        tasks = JSON.parse(localStorage.getItem('tasks'));
+    if(localStorage.getItem('tasks') === null){ // if local storage .get item tasks is null, theres nothing in there for tasks
+        tasks = []; // set an array and add to it
+    } else {                                    // if there is something, then we want to set tasks equal to whats in there 
+        tasks = JSON.parse(localStorage.getItem('tasks')); 
     }
 
-    tasks.push(task);
+    tasks.push(task); // adds task item to the array
 
-    localStorage.setItem('task', task);
+    localStorage.setItem('tasks', JSON.stringify(tasks)); // Puts into a string inside an array
     alert('Task saved');
 
     e.preventDefault();
 });
+
+const tasks = JSON.parse(localStorage.getItem('tasks'));
+
+tasks.forEach(function(task){
+    console.log(task);
+})
